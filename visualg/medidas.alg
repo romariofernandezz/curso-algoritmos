@@ -15,7 +15,7 @@ Inicio
 
     areaQuadrado <- A * A
     areaTriangulo <- (A * B) / 2
-    areaTrapezio <- (A + B) / 2 * C
+    areaTrapezio <- (A + B) / * C / 2
 
     escreval("QUADRADO = ", areaQuadrado:10:4)
     escreval("TRIANGULO = ", areaTriangulo:10:4)
